@@ -1,0 +1,17 @@
+{
+    "singleQuote": false,
+    "semi": false,
+    "useTabs": false,
+    "tabWidth": 2,
+    "printWidth": 80,
+    "quoteProps": "consistent",
+    "jsxSingleQuote": false,
+    "overrides": [
+        {
+            "files": ["*.json"],
+            "options": {
+                "quoteProps": "preserve"
+            }
+        }
+    ]
+}
